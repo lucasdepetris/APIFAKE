@@ -1,13 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "ObtenerLista":{
     "id":84,"Nombre":"test","Descripcion":"hola mundohh","Items":[],"TotalLista":0.0
   },
@@ -42,46 +33,7 @@
     {"presentacion":"500.0 cc","nombre":"Coca Cola Light 500 Cc","id":"7790895001482","marca":"COCA COLA","precioLista":0.0},
     {"presentacion":"2.25 lt","nombre":"Coca Cola Light 2.25 Lt","id":"7790895005312","marca":"COCA COLA","precioLista":0.0},
     {"presentacion":"250.0 cc","nombre":"Coca Cola en Lata 250 Cc","id":"7790895005602","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"2.0 lt","nombre":"Coca Cola Retornable 2 Lt","id":"7790895000218","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"1.5 lt","nombre":"Coca Cola 1.5 Lt Pack 4 Un","id":"7790895001505","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"2.12 lt","nombre":"Coca Cola 354 Ml Pack 6 Un","id":"7790895000904","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"2.12 lt","nombre":"Coca Cola Ligth 354 Ml 6 Un","id":"7790895001727","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"220.0 cc","nombre":"Coca Cola Mini Light 220 Cc","id":"7790895642098","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"1.5 lt","nombre":"Coca Cola sin Azucar 1.5 Lt","id":"7790895067556","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"2.5 lt","nombre":"Coca Cola sin Azucar 2.5 Lt","id":"7790895068096","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"220.0 ml","nombre":"Coca Cola sin Azucar 220 Ml","id":"7790895642135","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"237.0 cc","nombre":"Coca Cola sin Azucar 237 Cc","id":"7790895067594","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"375.0 ml","nombre":"Coca Cola sin Azucar 375 Ml","id":"7790895008108","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"473.0 ml","nombre":"Coca Cola sin Azucar 473 Ml","id":"7790895643286","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"500.0 cc","nombre":"Coca Cola sin Azucar 500 Cc","id":"7790895067532","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"600.0 cc","nombre":"Coca Cola sin Azucar 600 Cc","id":"7790895067549","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"220.0 ml","nombre":"Cola Coca Light 8 Un 220 Ml","id":"7790895642128","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"2.25 lt","nombre":"Coca Cola sin Azucar 2.25 Lt","id":"7790895067570","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"250.0 cc","nombre":"Coca Cola Zero en Lata 250 Cc","id":"7790895005954","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"473.0 ml","nombre":"Gaseosa Coca Cola Lata 473 Ml","id":"7790895643279","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"250.0 cc","nombre":"Coca Cola Light en Lata 250 Cc","id":"7790895005947","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"3.5 lt","nombre":"Coca Cola y Sprite 2 Un 3.5 Lt","id":"7790895643590","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"2.0 lt","nombre":"Coca Cola Light Retornable 2 Lt","id":"7790895063794","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"600.0 cc","nombre":"Coca Cola Sabor Original 600 Cc","id":"7790895006968","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"6.0 lt","nombre":"Coca Cola Light 1.5 Lt Pack 4 Un","id":"7790895005657","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"3.6 lt","nombre":"Coca Cola Light 600 Ml Pack 6 Un","id":"7790895063541","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"2.25 lt","nombre":"Coca Cola Sabor Original 2.25 Lt","id":"7790895000997","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"354.0 ml","nombre":"Coca Cola sin Azucar 6 Un 354 Ml","id":"7790895004407","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"600.0 cc","nombre":"Coca Cola sin Azucar 6 Un 600 Cc","id":"7790895067907","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"1.25 lt","nombre":"Cola Coca Sabor Original 1.25 Lt","id":"7790895012266","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"2.0 lt","nombre":"Coca Cola Light Sabor Liviano 2 Lt","id":"7790895001468","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"354.0 cc","nombre":"Coca Cola sin Azucar en Lata 354 Cc","id":"7790895067587","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"4.0 un","nombre":"Coca Cola + Sprite 2.25 Lt Pack 4 Un","id":"7790895007132","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"1.5 lt","nombre":"Coca Cola Light Sabor Liviano 1.5 Lt","id":"7790895001451","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"2.5 lt","nombre":"Coca Cola Light Sabor Liviano 2.5 Lt","id":"7790895639722","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"600.0 cc","nombre":"Coca Cola Light Sabor Liviano 600 Cc","id":"7790895006975","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"220.0 cc","nombre":"Coca Cola Sabor Original Mini 220 Cc","id":"7790895642081","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"2.0 lt","nombre":"Coca Cola sin Azucar Retornable 2 Lt","id":"7790895067617","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"354.0 cc","nombre":"Coca Cola Sabor Original en Lata 354 Cc","id":"7790895000232","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"354.0 cc","nombre":"Coca Cola Light Sabor Liviano Lata 354 Cc","id":"7790895001437","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"3.6 lt","nombre":"Coca Cola Sabor Original 600 Ml Pack 6 Un","id":"7790895007378","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"5.0 lt","nombre":"Coca Cola 2.25 Lt y Gaseosa Lima Limon Sprite 2.25 Lt","id":"7790895007057","marca":"COCA COLA","precioLista":0.0},
-    {"presentacion":"4.5 lt","nombre":"Coca Cola 2.25 Lt y Gaseosa Lima Limon Sprite 2.25 Lt","id":"7790895005466","marca":"COCA COLA","precioLista":0.0}
+    {"presentacion":"2.0 lt","nombre":"Coca Cola Retornable 2 Lt","id":"7790895000218","marca":"COCA COLA","precioLista":0.0}
   ],
   "ObtenerProductoPorId":{
     "producto":{"presentacion":"150.0 ml","nombre":"Desodorante Antitranspirante en Aerosol Rexona Invisible 150 Ml","id":"7791293022635","marca":"REXONA","precioLista":0.0},
