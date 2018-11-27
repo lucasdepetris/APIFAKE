@@ -7,5 +7,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "ObtenerLista":{
+    "id":84,"Nombre":"test","Descripcion":"hola mundohh","Items":[],"TotalLista":0.0
   }
 }
