@@ -10,5 +10,13 @@
   },
   "ObtenerLista":{
     "id":84,"Nombre":"test","Descripcion":"hola mundohh","Items":[],"TotalLista":0.0
+  },
+  "Login":{
+      "id": 30,
+      "idGogle": "12345678",
+      "fechaRegistro": "2018-11-27T07:28:41.5224657-08:00",
+      "Nombre": "Lucas",
+      "apellido": "Depetris",
+      "Email": "lucasdepetris1@outlook.com"
   }
 }
